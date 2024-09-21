@@ -1,3 +1,3 @@
-module.default  = function(a,b){
+module.exports  = function(a,b){
     return Math.pow(a,b);
 }
