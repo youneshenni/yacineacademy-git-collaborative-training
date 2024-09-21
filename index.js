@@ -13,3 +13,4 @@ console.log(factorial(4));
 console.log(minus(30, 7));
 console.log(power(3, 2));
 console.log(modulo(9, 2));
+console.log(plus(4, 4));
