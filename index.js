@@ -1,1 +1,3 @@
-console.log("Hello World");
+const Bitwiseors = require("./Bitwiseor").default;
+console.log(Bitwiseor(1, 2));
+
