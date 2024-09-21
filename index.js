@@ -1,11 +1,9 @@
-
+const minus = require("./minus")
 const plus = require("./plus");
+const division = require("./division");
+const factorial = require("./factorial")
 
 console.log(plus(4,4));
-const division = require("./division");
 console.log(division(10,3));
-
-const factorial = require("./factorial")
 console.log(factorial(4))
-const minus = require("./minus")
 console.log(minus(30,7));
